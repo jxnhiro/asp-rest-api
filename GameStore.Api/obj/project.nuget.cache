@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rkK3S3AuP+6tA2hugOSc0cXDLgcB08m2pCHY19wqZ9rTAMyS+sCwdyKi6HPToXRUzAPN4ItpSxSQjNCsY4iCoQ==",
+  "dgSpecHash": "aOs4HeTZXjjofGxajtfAbS7+LdW6yOIGVJUtMlkKluzYur3X5vJxdDZ9nxsifO9BC+i3EGy2hmsBjBAGY3we7g==",
   "success": true,
   "projectFilePath": "/Users/jxnhiro/Documents/asp-rest-api/GameStore.Api/GameStore.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jxnhiro/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/jxnhiro/.nuget/packages/minimalapis.extensions/0.11.0/minimalapis.extensions.0.11.0.nupkg.sha512",
+    "/Users/jxnhiro/.nuget/packages/minivalidation/0.8.0/minivalidation.0.8.0.nupkg.sha512"
+  ],
   "logs": []
 }

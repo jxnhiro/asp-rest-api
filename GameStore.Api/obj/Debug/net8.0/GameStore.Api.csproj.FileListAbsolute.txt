@@ -24,3 +24,9 @@
 /Users/jxnhiro/Documents/asp-rest-api/GameStore.Api/obj/Debug/net8.0/GameStore.Api.pdb
 /Users/jxnhiro/Documents/asp-rest-api/GameStore.Api/obj/Debug/net8.0/GameStore.Api.genruntimeconfig.cache
 /Users/jxnhiro/Documents/asp-rest-api/GameStore.Api/obj/Debug/net8.0/ref/GameStore.Api.dll
+/Users/jxnhiro/Documents/asp-rest-api/GameStore.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/jxnhiro/Documents/asp-rest-api/GameStore.Api/bin/Debug/net8.0/MinimalApis.Extensions.dll
+/Users/jxnhiro/Documents/asp-rest-api/GameStore.Api/bin/Debug/net8.0/MiniValidation.dll
+/Users/jxnhiro/Documents/asp-rest-api/GameStore.Api/obj/Debug/net8.0/GameStore.Api.csproj.AssemblyReference.cache
+/Users/jxnhiro/Documents/asp-rest-api/GameStore.Api/obj/Debug/net8.0/GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/jxnhiro/Documents/asp-rest-api/GameStore.Api/obj/Debug/net8.0/GameStore.Api.csproj.CopyComplete
