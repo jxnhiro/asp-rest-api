@@ -1,7 +1,7 @@
 using GameStore.Api;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddScoped<IGamesRepository, InMemGamesRepository>();
+builder.Services.AddSingleton<IGamesRepository, InMemGamesRepository>();
 var app = builder.Build();
 
 app.MapGamesEndpoints();
