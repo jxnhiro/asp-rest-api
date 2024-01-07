@@ -1,6 +1,5 @@
 ﻿namespace GameStore.Api;
-
-public class InMemGamesRepository
+public class InMemGamesRepository : IGamesRepository
 {
     private readonly List<Game> games = new()
     {
