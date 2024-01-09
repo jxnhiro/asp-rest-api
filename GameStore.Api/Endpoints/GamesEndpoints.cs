@@ -15,7 +15,7 @@ public static class GamesEndpoints
         group.MapGet("/{id}", (IGamesRepository repository, int id) => 
         {
             Game? game = repository.Get(id);
-            return game is not null ? Results.Ok(game.AsDto) : Results.NotFound();
+            return game is not null ? Results.Ok(game.AsDto()) : Results.NotFound();
         })
         .WithName(GetGameEndpointName);
 
